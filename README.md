@@ -30,8 +30,8 @@ CVPR 2018
    ./src/demo_inference.sh 
    ```
    This should produce results in the output/ folder that look like
-   ![ex2](output/frankfurt_000000_000294_42.png)
-   ![ex1](output/medical_00_5_20.png) 
+   ![ex2](readme/frankfurt_000000_000294_42.png)
+   ![ex1](readme/medical_00_5_20.png) 
 
 ### Walkthrough
    Checkout the ipython [notebook](src/demo_polyrnn.ipynb) that provides a simple walkthrough demonstrating how
