@@ -42,11 +42,11 @@ CVPR 2018
    * Training Code
 
 
-If you use this code, we request you to cite:
+If you use this code, please cite:
 
-    @article{acuna2018efficient,
+    @inproceedings{AcunaCVPR18,
     title={Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++},
-    author={Acuna, David and Ling, Huan and Kar, Amlan and Fidler, Sanja},
+    author={David Acuna and Huan Ling and Amlan Kar and Sanja Fidler},
     booktitle={CVPR},
     year={2018}
     }
