@@ -50,3 +50,10 @@ If you use this code, we request you to cite:
     booktitle={CVPR},
     year={2018}
     }
+
+    @inproceedings{CastrejonCVPR17,
+    title = {Annotating Object Instances with a Polygon-RNN},
+    author = {Lluis Castrejon and Kaustav Kundu and Raquel Urtasun and Sanja Fidler},
+    booktitle = {CVPR},
+    year = {2017}
+    }
