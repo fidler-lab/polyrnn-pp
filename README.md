@@ -2,10 +2,12 @@
 
 This is the official inference code for Polygon-RNN++ (CVPR-2018). For technical details, please refer to:  
 
+**An official pytorch reimplementation with training/tool code is available [here](https://github.com/fidler-lab/polyrnn-pp-pytorch)**
+
 **Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**  
 [David Acuna](http://www.cs.toronto.edu/~davidj/)\*, [Huan Ling](http:///www.cs.toronto.edu/~linghuan/)\*, [Amlan Kar](http://www.cs.toronto.edu/~amlan/)\*, [Sanja Fidler](http://www.cs.toronto.edu/~fidler/) (\* denotes equal contribution)   
 CVPR 2018  
-**[[Paper](https://arxiv.org/abs/1803.09693)] [[Video](https://www.youtube.com/watch?v=evGqMnL4P3E)] [[Project Page](http://www.cs.toronto.edu/polyrnn/)] [[Demo](https://goo.gl/forms/aWEHgFTyWfeA5oUt1)]**  
+**[[Paper](https://arxiv.org/abs/1803.09693)] [[Video](https://www.youtube.com/watch?v=evGqMnL4P3E)] [[Project Page](http://www.cs.toronto.edu/polyrnn/)] [[Demo](https://goo.gl/forms/aWEHgFTyWfeA5oUt1)] [[Training/Tool Code](https://github.com/fidler-lab/polyrnn-pp-pytorch)]**
 ![Model](readme/model.png)
 
 ### Usage
@@ -36,10 +38,6 @@ CVPR 2018
 ### Walkthrough
    Checkout the ipython [notebook](src/demo_polyrnn.ipynb) that provides a simple walkthrough demonstrating how
    to run our model on sample input image crops
-
-### Coming Soon
-   * Training Code
-
 
 If you use this code, please cite:
 
