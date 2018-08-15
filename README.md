@@ -1,6 +1,6 @@
 # PolygonRNN++
 
-This is the official repository for the Polygon-RNN++ project (CVPR-2018). For technical details, please refer to:  
+This is the official inference code for Polygon-RNN++ (CVPR-2018). For technical details, please refer to:  
 
 **Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++**  
 [David Acuna](http://www.cs.toronto.edu/~davidj/)\*, [Huan Ling](http:///www.cs.toronto.edu/~linghuan/)\*, [Amlan Kar](http://www.cs.toronto.edu/~amlan/)\*, [Sanja Fidler](http://www.cs.toronto.edu/~fidler/) (\* denotes equal contribution)   
